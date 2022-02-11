@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on translating multiple FFXIV project into German and support for other languages
 <!--
+need to check out this video to update readme^^: https://www.youtube.com/watch?v=ECuqb5Tv9qI
 **Akurosia/Akurosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
